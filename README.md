@@ -12,4 +12,4 @@
 ---
 
 **Interesse:**
-- O meu intuito pessoal é desenvolver habilidade mínima de codificação utilizando a linguagem C++, e assim aprimorar o raciocínio lógico e entre outras _skills_ importantes e necessárias ao desenvolver.
+- O meu intuito pessoal é desenvolver habilidade mínima de codificação utilizando a linguagem C++, e assim aprimorar o raciocínio lógico e entre outras _skills_ importantes e necessárias para o desenvolvedor.
